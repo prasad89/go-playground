@@ -1,3 +1,5 @@
+// Program to create string variables
+
 package main
 
 import "fmt"

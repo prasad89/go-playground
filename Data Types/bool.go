@@ -1,3 +1,5 @@
+// Program to create boolean variables
+
 package main
 
 import "fmt"
